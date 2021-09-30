@@ -1,1 +1,1 @@
-# aplikasi-input-data-siswa
+# input-data-siswa
